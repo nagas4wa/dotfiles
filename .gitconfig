@@ -1,0 +1,24 @@
+[user]
+    email = masakinagasawa1122@gmail.com
+    name = nagas4wa
+[core]
+    editor = vim
+[alias]
+    pushf = push --force-with-lease --force-if-includes
+    pushu = push --set-upstream
+    co = checkout
+    sw = switch
+    swc = switch -c
+    st = status
+    br = branch
+    brd = branch -d
+    brdd = branch -D
+    brm = branch -m
+    ci = commit
+    logo = log --oneline
+[branch]
+    sort = -committerdate
+[rebase]
+    autostash = true
+    abbreviateCommands = true
+    autosquash = true
