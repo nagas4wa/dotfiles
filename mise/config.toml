@@ -1,0 +1,17 @@
+[tools]
+bat = "latest"
+eza = "latest"
+fd = "latest"
+fzf = "latest"
+gh = "latest"
+ghq = "latest"
+helix = "latest"
+herdr = "latest"
+jj = "latest"
+jjui = "latest"
+jq = "latest"
+ripgrep = "latest"
+starship = "latest"
+yazi = "latest"
+zoxide = "latest"
+
