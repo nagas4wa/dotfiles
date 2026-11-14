@@ -15,3 +15,7 @@ starship = "latest"
 yazi = "latest"
 zoxide = "latest"
 
+[shell_alias]
+".." = "cd .."
+"..." = "cd ../.."
+
