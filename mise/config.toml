@@ -19,3 +19,6 @@ zoxide = "latest"
 ".." = "cd .."
 "..." = "cd ../.."
 
+[settings.write_targets]
+tools = "~/.config/mise/config.local.toml"
+
